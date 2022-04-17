@@ -1,0 +1,1 @@
+El efecto tuvo haber agregado a la aplicación la relación @OneToMany en la entidad Competitor es que se puede obtener una colección de objetos de la entidad Producto, a su vez se puede acceder a los atributos de ambos. Cabe resalta que esa relación fue construida a través de la variable “id”
